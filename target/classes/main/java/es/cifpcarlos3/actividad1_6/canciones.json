@@ -1,0 +1,31 @@
+[ {
+  "año" : 2002,
+  "titulo" : "Plug n baby",
+  "artista" : "Muse",
+  "duracion" : "2:40",
+  "esEspanol" : false
+}, {
+  "año" : 2013,
+  "titulo" : "R u mine",
+  "artista" : "Arctic Monkeys",
+  "duracion" : "3:10",
+  "esEspanol" : false
+}, {
+  "año" : 2014,
+  "titulo" : "Loose Sutures",
+  "artista" : "Fuzz",
+  "duracion" : "4:30",
+  "esEspanol" : false
+}, {
+  "año" : 2018,
+  "titulo" : "Total Football",
+  "artista" : "Parquet Courts",
+  "duracion" : "3:00",
+  "esEspanol" : false
+}, {
+  "año" : 1973,
+  "titulo" : "Entre dos aguas",
+  "artista" : "Paco de Lucia",
+  "duracion" : "6:00",
+  "esEspanol" : true
+} ]
