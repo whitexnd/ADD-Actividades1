@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Inicialización Actividades 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/vo/Ciclo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/vo/FamiliaProfesional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/vo/Grado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/GestorCoches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/coches.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/CatalogoCoches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/Coche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Actividades1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Actividades1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/GestorFormacion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/GestorFormacion2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_1/informacion_ciclos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_2/frases-bak.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_2/procesados/frases_filtradas.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_3/familia_profesional.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_3/informacion_ciclos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_2/frases-bak.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_6/GestorCanciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_6/GestorCanciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/GestorCoches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/GestorCoches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_6/GestorCanciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_6/GestorCanciones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/GestorCoches.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/GestorCoches.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +38,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/whitexnd/ADD-Actividades1.git&quot;,
-    &quot;accountId&quot;: &quot;61fa3227-c35a-4fdc-9cb0-0fbd6b844835&quot;
+    &quot;accountId&quot;: &quot;6685b8cc-6388-443a-987e-eea90e085dbf&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -69,36 +55,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.GestorCanciones.executor": "Run",
-    "Application.GestorCoches.executor": "Run",
-    "Application.GestorFormacion.executor": "Run",
-    "Application.GestorFormacion2.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/media/dam/Ventoy/DAM/2DAM/ADD/1TU1/Actividades1/Actividades1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GestorCanciones.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestorCoches.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestorFormacion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestorFormacion2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/dam/Ventoy/DAM/2DAM/ADD/1TU1/Actividades1/Actividades1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_6" />
@@ -137,8 +123,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -161,7 +147,8 @@
       <workItem from="1761231925887" duration="58000" />
       <workItem from="1761232003017" duration="2067000" />
       <workItem from="1761236421842" duration="1389000" />
-      <workItem from="1761238196565" duration="3116000" />
+      <workItem from="1761238196565" duration="4374000" />
+      <workItem from="1761497751435" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialización Actividades 1">
       <option name="closed" value="true" />
@@ -171,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760633316191</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inicialización Actividades 1">
+      <option name="closed" value="true" />
+      <created>1761241896326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761241896326</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inicialización Actividades 1">
+      <option name="closed" value="true" />
+      <created>1761241975698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761241975698</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

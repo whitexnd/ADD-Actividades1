@@ -54,6 +54,6 @@ public class GestorCoches {
 
         System.out.println("Leidas: " + lineasLeidas + " | Válidas: " + validas + " | Ignoradas: " + invalidas);
         System.out.println("XML generado en:");
-        System.out.println(salida.toAbsolutePath());
+        System.out.println(salida);
     }
 }

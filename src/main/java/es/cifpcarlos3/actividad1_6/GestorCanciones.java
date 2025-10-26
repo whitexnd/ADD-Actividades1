@@ -23,8 +23,10 @@ public class GestorCanciones {
         try (var br = Files.newBufferedReader(txt, StandardCharsets.UTF_8)) {
             String linea;
             while ((linea = br.readLine()) != null) {
+                lineasLeidas++;
                 String[] partes = linea.split(",");
                 if (partes.length == 5){
+                    validas++;
                     try {
                         Cancion c = new Cancion(
                                 Integer.parseInt(partes[0].trim()),
@@ -35,17 +37,16 @@ public class GestorCanciones {
                         );
                         listaCanciones.add(c);
                     } catch (NumberFormatException | ArrayIndexOutOfBoundsException ex) {
-                        System.err.println("Línea ignorada por formato incorrecto: '" + linea + "' -> " + ex.getMessage());
+                        System.err.println("Línea " + lineasLeidas + " ignorada por formato incorrecto: '" + linea + "' -> " + ex.getMessage());
+                        invalidas++;
                     }
+                } else {
+                    invalidas++;
                 }
 
             }
         } catch ( IOException e) {
             System.err.println("Error al leer el archivo: " + e.getMessage());
-        }
-
-        for (Cancion c : listaCanciones) {
-            System.out.println(c);
         }
 
         var mapper = new ObjectMapper();
@@ -57,7 +58,7 @@ public class GestorCanciones {
 
         System.out.println("Leidas: " + lineasLeidas + " | Válidas: " + validas + " | Ignoradas: " + invalidas);
         System.out.println("JSON generado en:");
-        System.out.println(json.toAbsolutePath());
+        System.out.println(json);
 
     }
 }
