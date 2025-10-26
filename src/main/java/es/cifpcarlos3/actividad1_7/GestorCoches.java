@@ -27,14 +27,19 @@ public class GestorCoches {
                 // parsear y añadir a la lista
                 String[] partes = linea.trim().split(",");
                 if(partes.length == 4){
-                    Coche c = new Coche(
-                            partes[0],
-                            partes[1],
-                            partes[2],
-                            Integer.parseInt(partes[3])
-                    );
-                    listaCoches.add(c);
-                    validas++;
+                    try {
+                        Coche c = new Coche(
+                                partes[0],
+                                partes[1],
+                                partes[2],
+                                Integer.parseInt(partes[3])
+                        );
+                        listaCoches.add(c);
+                        validas++;
+                    } catch (NumberFormatException | ArrayIndexOutOfBoundsException ex) {
+                        System.err.println("Línea " + lineasLeidas + " ignorada por formato incorrecto: '" + linea + "' -> " + ex.getMessage());
+                        invalidas++;
+                    }
                 } else {
                     invalidas++;
                 }

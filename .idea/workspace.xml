@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Inicialización Actividades 1">
+    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_6/GestorCanciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_6/GestorCanciones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/GestorCoches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/GestorCoches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/CatalogoCoches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/CatalogoCoches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/Coche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_6/GestorCanciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_6/GestorCanciones.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/GestorCoches.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/GestorCoches.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java/es/cifpcarlos3/actividad1_6/canciones.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java/es/cifpcarlos3/actividad1_6/canciones.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_6/canciones.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_6/canciones.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/es/cifpcarlos3/actividad1_6/canciones.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/main/java/es/cifpcarlos3/actividad1_6/canciones.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +40,12 @@
     &quot;assignee&quot;: &quot;whitexnd&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/whitexnd/ADD-Actividades1.git&quot;,
-    &quot;accountId&quot;: &quot;6685b8cc-6388-443a-987e-eea90e085dbf&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/whitexnd/ADD-Actividades1.git",
+    "accountId": "73be16ac-99d6-4eb5-875e-3850f09bba7a"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -148,7 +153,7 @@
       <workItem from="1761232003017" duration="2067000" />
       <workItem from="1761236421842" duration="1389000" />
       <workItem from="1761238196565" duration="4374000" />
-      <workItem from="1761497751435" duration="470000" />
+      <workItem from="1761497751435" duration="1647000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialización Actividades 1">
       <option name="closed" value="true" />
@@ -174,7 +179,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761241975698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finalización ej6 y inicio ej7">
+      <option name="closed" value="true" />
+      <created>1761498317482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761498317482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update">
+      <option name="closed" value="true" />
+      <created>1761498441171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761498441171</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +214,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicialización Actividades 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicialización Actividades 1" />
+    <MESSAGE value="Finalización ej6 y inicio ej7" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
