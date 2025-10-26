@@ -1,28 +1,28 @@
 <CatalogoCoches>
-  <catalogo>
-    <catalogo>
+  <coche>
+    <coche>
       <marca>Seat</marca>
       <modelo>Ibiza</modelo>
       <color>rojo</color>
-      <anio>2019</anio>
-    </catalogo>
-    <catalogo>
+      <anyo>2019</anyo>
+    </coche>
+    <coche>
       <marca>Ford</marca>
       <modelo>Focus</modelo>
       <color>gris</color>
-      <anio>2014</anio>
-    </catalogo>
-    <catalogo>
+      <anyo>2014</anyo>
+    </coche>
+    <coche>
       <marca>Volkswagen</marca>
       <modelo>Golf</modelo>
       <color>azul</color>
-      <anio>2020</anio>
-    </catalogo>
-    <catalogo>
+      <anyo>2020</anyo>
+    </coche>
+    <coche>
       <marca>Toyota</marca>
       <modelo>Corolla</modelo>
       <color>blanco</color>
-      <anio>2022</anio>
-    </catalogo>
-  </catalogo>
+      <anyo>2022</anyo>
+    </coche>
+  </coche>
 </CatalogoCoches>
