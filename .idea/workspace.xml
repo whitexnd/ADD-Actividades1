@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Ejercicio 1_7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/Recetario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/receta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Ingrediente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Origen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Receta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/es/cifpcarlos3/actividad1_7/coches.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_7/coches.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +32,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;whitexnd&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/whitexnd/ADD-Actividades1.git",
+    "accountId": "f1ea6808-6e92-4aad-a9f4-3daed7085b54"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/whitexnd/ADD-Actividades1.git&quot;,
-    &quot;accountId&quot;: &quot;73be16ac-99d6-4eb5-875e-3850f09bba7a&quot;
-  }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
