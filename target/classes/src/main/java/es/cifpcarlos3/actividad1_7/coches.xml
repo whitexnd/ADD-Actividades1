@@ -1,28 +1,26 @@
-<CatalogoCoches>
+<catalogo>
   <coche>
-    <coche>
-      <marca>Seat</marca>
-      <modelo>Ibiza</modelo>
-      <color>rojo</color>
-      <anyo>2019</anyo>
-    </coche>
-    <coche>
-      <marca>Ford</marca>
-      <modelo>Focus</modelo>
-      <color>gris</color>
-      <anyo>2014</anyo>
-    </coche>
-    <coche>
-      <marca>Volkswagen</marca>
-      <modelo>Golf</modelo>
-      <color>azul</color>
-      <anyo>2020</anyo>
-    </coche>
-    <coche>
-      <marca>Toyota</marca>
-      <modelo>Corolla</modelo>
-      <color>blanco</color>
-      <anyo>2022</anyo>
-    </coche>
+    <marca>Seat</marca>
+    <modelo>Ibiza</modelo>
+    <color>rojo</color>
+    <anio>2019</anio>
   </coche>
-</CatalogoCoches>
+  <coche>
+    <marca>Ford</marca>
+    <modelo>Focus</modelo>
+    <color>gris</color>
+    <anio>2014</anio>
+  </coche>
+  <coche>
+    <marca>Volkswagen</marca>
+    <modelo>Golf</modelo>
+    <color>azul</color>
+    <anio>2020</anio>
+  </coche>
+  <coche>
+    <marca>Toyota</marca>
+    <modelo>Corolla</modelo>
+    <color>blanco</color>
+    <anio>2022</anio>
+  </coche>
+</catalogo>

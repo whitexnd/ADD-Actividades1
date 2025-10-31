@@ -4,17 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Update">
+    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Ejercicio 1_7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/Recetario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/receta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Ingrediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Origen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Receta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/GestorCoches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/GestorCoches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/CatalogoCoches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/CatalogoCoches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/Coche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_6/GestorCanciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_6/GestorCanciones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/GestorCoches.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/GestorCoches.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/es/cifpcarlos3/actividad1_6/canciones.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java/es/cifpcarlos3/actividad1_6/canciones.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_6/canciones.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_6/canciones.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/es/cifpcarlos3/actividad1_6/canciones.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/main/java/es/cifpcarlos3/actividad1_6/canciones.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java/es/cifpcarlos3/actividad1_7/coches.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_7/coches.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +42,12 @@
     &quot;assignee&quot;: &quot;whitexnd&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/whitexnd/ADD-Actividades1.git",
-    "accountId": "73be16ac-99d6-4eb5-875e-3850f09bba7a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/whitexnd/ADD-Actividades1.git&quot;,
+    &quot;accountId&quot;: &quot;73be16ac-99d6-4eb5-875e-3850f09bba7a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -67,6 +69,8 @@
     &quot;Application.GestorFormacion.executor&quot;: &quot;Run&quot;,
     &quot;Application.GestorFormacion2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recetario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecetarioTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -76,7 +80,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/dam/Ventoy/DAM/2DAM/ADD/1TU1/Actividades1/Actividades1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/DAM/2DAM/ADD/1TU1/Actividades1/Actividades1/src/main/java/es/cifpcarlos3/actividad1_8&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -92,18 +96,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_8" />
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_6" />
       <recent name="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4" />
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_2" />
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1" />
-      <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7" />
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GestorFormacion">
     <configuration name="GestorFormacion" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="es.cifpcarlos3.actividad1_3.GestorFormacion" />
       <module name="Actividades1" />
@@ -153,7 +157,8 @@
       <workItem from="1761232003017" duration="2067000" />
       <workItem from="1761236421842" duration="1389000" />
       <workItem from="1761238196565" duration="4374000" />
-      <workItem from="1761497751435" duration="1647000" />
+      <workItem from="1761497751435" duration="2159000" />
+      <workItem from="1761739170189" duration="2903000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialización Actividades 1">
       <option name="closed" value="true" />
@@ -195,7 +200,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761498441171</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ejercicio 1_7">
+      <option name="closed" value="true" />
+      <created>1761499429664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761499429664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ejercicio 1_7">
+      <option name="closed" value="true" />
+      <created>1761499436411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761499436411</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +237,7 @@
     <MESSAGE value="Inicialización Actividades 1" />
     <MESSAGE value="Finalización ej6 y inicio ej7" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Ejercicio 1_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1_7" />
   </component>
 </project>
