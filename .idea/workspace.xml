@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Ejercicio 1_8">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/GestorClientes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/clientes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/ListaClientes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/Sucursal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Ejercicio 1_9">
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/clientes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/clientes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +148,7 @@
       <workItem from="1761238196565" duration="4374000" />
       <workItem from="1761497751435" duration="2159000" />
       <workItem from="1761739170189" duration="2903000" />
-      <workItem from="1761905295594" duration="2712000" />
+      <workItem from="1761905295594" duration="3115000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialización Actividades 1">
       <option name="closed" value="true" />
@@ -216,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761499436411</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ejercicio 1_9">
+      <option name="closed" value="true" />
+      <created>1761908241964</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761908241964</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +236,7 @@
     <MESSAGE value="Finalización ej6 y inicio ej7" />
     <MESSAGE value="Update" />
     <MESSAGE value="Ejercicio 1_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1_7" />
+    <MESSAGE value="Ejercicio 1_9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1_9" />
   </component>
 </project>
