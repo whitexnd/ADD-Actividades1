@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Ejercicio 1_7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_1/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Ejercicio 1_8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/GestorClientes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/clientes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/ListaClientes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/Sucursal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +35,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/whitexnd/ADD-Actividades1.git",
-    "accountId": "f1ea6808-6e92-4aad-a9f4-3daed7085b54"
+    "accountId": "73be16ac-99d6-4eb5-875e-3850f09bba7a"
   }
 }]]></component>
   <component name="ProblemsViewState">
@@ -55,52 +58,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.GestorCanciones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GestorCoches.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GestorFormacion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GestorFormacion2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recetario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecetarioTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/DAM/2DAM/ADD/1TU1/Actividades1/Actividades1/src/main/java/es/cifpcarlos3/actividad1_8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.GestorCanciones.executor": "Run",
+    "Application.GestorClientes.executor": "Run",
+    "Application.GestorCoches.executor": "Run",
+    "Application.GestorFormacion.executor": "Run",
+    "Application.GestorFormacion2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Recetario.executor": "Run",
+    "Application.RecetarioTest.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/DAM/2DAM/ADD/1TU1/Actividades1/Actividades1/src/main/java/es/cifpcarlos3/actividad1_9",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_9" />
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_8" />
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_6" />
       <recent name="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4" />
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_2" />
-      <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7" />
       <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GestorFormacion">
+  <component name="RunManager">
     <configuration name="GestorFormacion" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="es.cifpcarlos3.actividad1_3.GestorFormacion" />
       <module name="Actividades1" />
@@ -152,6 +158,7 @@
       <workItem from="1761238196565" duration="4374000" />
       <workItem from="1761497751435" duration="2159000" />
       <workItem from="1761739170189" duration="2903000" />
+      <workItem from="1761905295594" duration="2712000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialización Actividades 1">
       <option name="closed" value="true" />
