@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="Ejercicio 2_5">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Actividades1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_1/App1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_1/informacion_ciclos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_2/frases-backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_2/procesados/frases_filtradas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_3/GestorFormacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_3/familia_profesional.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_3/informacion_ciclos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_3/vo/Ciclo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_3/vo/FamiliaProfesional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/GestorFormacion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/familia_profesional.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/grados.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/informacion_ciclos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/lista_ciclos.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/vo/Ciclo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/vo/FamiliaProfesional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_4/vo/Grado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_6/GestorCanciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_6/canciones.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_6/canciones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_6/vo/Cancion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/GestorCoches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/coches.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/coches.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/CatalogoCoches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7/vo/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/Recetario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/receta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Ingrediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Origen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_8/vo/Receta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/GestorClientes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/clientes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/ListaClientes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_9/vo/Sucursal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_2/dao/ContinenteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_2/dao/PaisDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_2/dao/impl/ContinenteDAOMariaDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_2/dao/impl/PaisDAOMariaDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_2/model/Continente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_2/model/Pais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_3/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_3/dao/ContinenteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_3/dao/PaisDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_3/dao/impl/ContinenteDAOMariaDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_3/dao/impl/PaisDAOMariaDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_3/model/Continente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_3/model/Pais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_3/util/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_4/App2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_4/dao/ClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_4/dao/CuentaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_4/dao/impl/ClienteDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_4/dao/impl/CuentaDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_4/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_4/model/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_4/util/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_5/App2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_5/dao/CuentaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_5/dao/UsuarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_5/dao/impl/CuentaDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_5/dao/impl/UsuarioDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_5/model/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_5/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad2_5/util/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Actividades1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_1/App1_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_3/GestorFormacion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_3/vo/Ciclo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_3/vo/FamiliaProfesional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_4/GestorFormacion2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_4/vo/Ciclo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_4/vo/FamiliaProfesional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_4/vo/Grado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_6/GestorCanciones.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_6/vo/Cancion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/GestorCoches.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/vo/CatalogoCoches.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/es/cifpcarlos3/actividad1_7/vo/Coche.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/whitexnd/ADD-Actividades1.git&quot;,
+    &quot;accountId&quot;: &quot;f1ea6808-6e92-4aad-a9f4-3daed7085b54&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="343iL3ajZjuUKGeaTPIgtF1Lww2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestorCanciones.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestorCoches.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestorFormacion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestorFormacion2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recetario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecetarioTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/ADD-Actividades1/src/main/java/es/cifpcarlos3/actividad2_5/dao&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\ADD-Actividades1\src\main\java\es\cifpcarlos3\actividad2_5\dao" />
+      <recent name="C:\Users\user\IdeaProjects\ADD-Actividades1\src\main\java\es\cifpcarlos3\actividad2_3\dao" />
+      <recent name="C:\Users\user\IdeaProjects\ADD-Actividades1\src\main\java\es\cifpcarlos3\actividad2_3\model" />
+      <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_8" />
+      <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/es/cifpcarlos3/actividad1_7" />
+      <recent name="E:\DAM\2DAM\ADD\1TU1\Actividades1\Actividades1\src\main\java\es\cifpcarlos3\actividad1_1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="es.cifpcarlos3.actividad2_5.dao" />
+      <recent name="es.cifpcarlos3.actividad2_5.model" />
+      <recent name="es.cifpcarlos3.actividad2_5.util" />
+      <recent name="es.cifpcarlos3.actividad2_4.util" />
+      <recent name="es.cifpcarlos3.actividad2_3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GestorFormacion">
+    <configuration name="GestorFormacion" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.cifpcarlos3.actividad1_3.GestorFormacion" />
+      <module name="Actividades1" />
+      <option name="PROGRAM_PARAMETERS" value="SAN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestorFormacion2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.cifpcarlos3.actividad1_4.GestorFormacion2" />
+      <module name="Actividades1" />
+      <option name="PROGRAM_PARAMETERS" value="SAN CFGS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GestorFormacion" />
+      <item itemvalue="Application.GestorFormacion2" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea1bc01f-0717-402e-91d4-5249b078d5f6" name="Changes" comment="" />
+      <created>1760448597156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760448597156</updated>
+      <workItem from="1760448598338" duration="400000" />
+      <workItem from="1760449027693" duration="4942000" />
+      <workItem from="1760468878407" duration="1991000" />
+      <workItem from="1760632483673" duration="945000" />
+      <workItem from="1760633451457" duration="2546000" />
+      <workItem from="1760638353647" duration="42000" />
+      <workItem from="1761056269953" duration="4014000" />
+      <workItem from="1761129419602" duration="3767000" />
+      <workItem from="1761141629620" duration="706000" />
+      <workItem from="1761231925887" duration="58000" />
+      <workItem from="1761232003017" duration="2067000" />
+      <workItem from="1761236421842" duration="1389000" />
+      <workItem from="1761238196565" duration="4374000" />
+      <workItem from="1761497751435" duration="2159000" />
+      <workItem from="1761739170189" duration="2903000" />
+      <workItem from="1762088569291" duration="22000" />
+      <workItem from="1762446942934" duration="302000" />
+      <workItem from="1762450219272" duration="235000" />
+      <workItem from="1762450470449" duration="4911000" />
+      <workItem from="1762791168806" duration="69000" />
+      <workItem from="1762796303567" duration="1893000" />
+      <workItem from="1762799151327" duration="1163000" />
+      <workItem from="1762891237670" duration="241000" />
+      <workItem from="1763326412254" duration="49000" />
+      <workItem from="1763477743242" duration="3439000" />
+      <workItem from="1763481239349" duration="22000" />
+      <workItem from="1763583865173" duration="1646000" />
+      <workItem from="1763659482573" duration="4194000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inicialización Actividades 1">
+      <option name="closed" value="true" />
+      <created>1760633316191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760633316191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inicialización Actividades 1">
+      <option name="closed" value="true" />
+      <created>1761241896326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761241896326</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inicialización Actividades 1">
+      <option name="closed" value="true" />
+      <created>1761241975698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761241975698</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finalización ej6 y inicio ej7">
+      <option name="closed" value="true" />
+      <created>1761498317482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761498317482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update">
+      <option name="closed" value="true" />
+      <created>1761498441171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761498441171</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ejercicio 1_7">
+      <option name="closed" value="true" />
+      <created>1761499429664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761499429664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ejercicio 1_7">
+      <option name="closed" value="true" />
+      <created>1761499436411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761499436411</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ejercicio 2_1">
+      <option name="closed" value="true" />
+      <created>1761903662118</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761903662118</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ejercicio 2_2">
+      <option name="closed" value="true" />
+      <created>1762451420881</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762451420881</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ejercicio 2_3">
+      <option name="closed" value="true" />
+      <created>1762797597634</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762797597634</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ejercicio 2_4">
+      <option name="closed" value="true" />
+      <created>1762891282727</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762891282727</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicialización Actividades 1" />
+    <MESSAGE value="Finalización ej6 y inicio ej7" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Ejercicio 1_7" />
+    <MESSAGE value="Ejercicio 2_1" />
+    <MESSAGE value="Ejercicio 2_2" />
+    <MESSAGE value="Ejercicio 2_3" />
+    <MESSAGE value="Ejercicio 2_4" />
+    <MESSAGE value="Ejercicio 2_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2_5" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

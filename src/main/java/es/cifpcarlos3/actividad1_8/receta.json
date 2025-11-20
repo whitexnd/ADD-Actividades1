@@ -1,0 +1,18 @@
+{
+    "nombre": "Gazpacho base",
+    "tipo": "Sopa fría",
+    "origen": {
+        "pais": "España",
+        "region": "Andalucía"
+    },
+    "ingredientes": [
+        {
+            "nombre": "Tomate",
+            "cantidad": "1 kg"
+        },
+        {
+            "nombre": "Pimiento verde",
+            "cantidad": "100 g"
+        }
+    ]
+}
